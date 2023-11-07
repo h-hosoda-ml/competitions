@@ -71,6 +71,7 @@ networkx==3.2.1
 notebook==7.0.6
 notebook-shim==0.2.3
 numpy==1.26.1
+opencv-python==4.8.1.78
 overrides==7.4.0
 packaging==23.2
 pandas==2.1.2
@@ -88,6 +89,7 @@ pycparser==2.21
 pygments==2.16.1
 pyparsing==3.1.1
 python-dateutil==2.8.2
+python-dotenv==1.0.0
 python-json-logger==2.0.7
 pytz==2023.3.post1
 pyyaml==6.0.1
